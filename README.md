@@ -22,7 +22,7 @@ This repository includes recursive implementations such as:
 ## 📜 How to Use?
 Clone the repository and compile any file to explore recursion:
 ```bash
-git clone https://github.com/Pratham-16/Recursion-Learning.git  
+git clone https://github.com/YOUR_NAME/Recursion-Learning.git  
 cd Recursion-Learning  
 g++ filename.cpp -o output  
 ./output  
